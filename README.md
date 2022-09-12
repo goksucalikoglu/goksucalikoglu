@@ -1,4 +1,3 @@
-https://giphy.com/channel/buzzfeed
 
 ### Hi there, I am Göksu. :blush:
 
