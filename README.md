@@ -1,4 +1,4 @@
-<img src= "https://giphy.com/channel/buzzfeed.gif" align="right" widht="400" height="250" >
+https://giphy.com/channel/buzzfeed
 
 ### Hi there, I am Göksu. :blush:
 
