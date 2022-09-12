@@ -1,4 +1,4 @@
-<img src= "https://tenor.com/bdlGF.gif" align="right" widht="400" height="250" >
+<img src= "https://giphy.com/channel/buzzfeed.gif" align="right" widht="400" height="250" >
 
 ### Hi there, I am Göksu. :blush:
 
