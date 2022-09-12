@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>:bulb Github Stats </summary>
+<summary> Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goksucalikoglu&layout=compact" >
 </details>
 
