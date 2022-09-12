@@ -4,7 +4,7 @@
 
 ## Artifical Intelligence Developer | Full-stack Developer
 
-<font color ="orange" > Welcome to my world '< code />' </font>
+<font color ="orange" > Welcome to my world 
 
 ## Reach out me
 
@@ -35,7 +35,7 @@
 
 
 <details>
-<summary>:bulb Github Stats </summary>
+<summary> Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=goksucalikoglu&theme=gruvbox" >
 </details>
 
