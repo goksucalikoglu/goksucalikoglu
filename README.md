@@ -3,7 +3,6 @@
 
 ## Artifical Intelligence Developer | Full-stack Developer
 
-<font color ="orange" > Welcome to my world 
 
 ## Reach out me
 
