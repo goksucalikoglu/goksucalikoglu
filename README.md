@@ -1,7 +1,7 @@
 
 ### Hi there, I am Göksu. :blush:
 
-## Artifical Intelligence Developer | Full-stack Developer
+## Artifical Intelligence Developer 
 
 
 ## Reach out me
